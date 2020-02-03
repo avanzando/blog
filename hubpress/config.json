@@ -35,7 +35,7 @@
     "cover": "https://avanzando.github.io/images/pic02.jpg",
     "delay": "",
     "postsPerPage": "",
-    "blogPath": "",
+    "blogPath": "blog/",
     "googleAnalytics": "",
     "disqus": ""
   },
